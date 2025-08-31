@@ -1,0 +1,6 @@
+streamlit>=1.33.0
+llama-index-core>=0.10.20
+llama-index-llms-ollama>=0.1.6
+llama-index-embeddings-ollama>=0.1.5
+llama-index-readers-file>=0.1.10
+pypdf>=4.1.0

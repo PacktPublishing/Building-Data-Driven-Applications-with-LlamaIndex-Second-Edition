@@ -1,0 +1,25 @@
+Independent Contractor Agreement
+
+This Agreement is made between AcmeCorp Ltd. ("Company") and John Doe ("Contractor"), effective as of March 15, 2025.
+
+1. Scope of Work
+Contractor agrees to perform software development and data analysis services for Company on a project basis. Work may be conducted on Contractor’s personal laptop and stored using third-party cloud services (e.g., Dropbox, Google Drive).
+
+2. Confidentiality
+The Contractor agrees to maintain confidentiality of sensitive information where possible. However, the Contractor may disclose certain non-critical internal documentation to subcontractors if it aids in project completion.
+
+3. Data Access
+The Contractor shall have unrestricted access to internal client databases and may download relevant data as needed to complete assigned tasks.
+
+4. Competing Activities
+The Contractor is currently consulting for TechNova Inc., a direct competitor of the Company. The Contractor asserts that this does not represent a conflict of interest.
+
+5. Termination
+Upon termination of this agreement, the Contractor may retain documentation and code repositories developed during the engagement for personal portfolio use. Return of company-issued equipment is expected within 30 days.
+
+6. Legal Binding
+Both parties agree to the terms outlined above. No further review by legal counsel is deemed necessary.
+
+Signed:  
+John Doe, Contractor  
+Jane Smith, Project Lead, AcmeCorp Ltd.

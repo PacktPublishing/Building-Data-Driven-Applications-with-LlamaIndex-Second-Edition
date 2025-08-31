@@ -1,0 +1,14 @@
+RISK ANALYSIS:
+==================================================
+A thorough assessment of this agreement reveals several potential risks. Firstly, the contractor is obligated to safeguard internal company data and sensitive business information, mirroring stipulations regarding confidentiality found in the broader company policy. Access to systems is restricted to what’s needed for the project, subject to departmental approval, aligning with the document’s controls on access rights. Furthermore, the contractor is prohibited from engaging in competing activities, mirroring the non-compete clause outlined in the company’s policy. Finally, upon termination, all company-owned equipment and immediate revocation of access rights are mandated, consistent with the policy regarding the exit process.
+
+==================================================
+COMPLIANCE CHECK:
+==================================================
+There are several instances of non-compliance within the agreement.
+
+Section 2 states “The Contractor shall maintain strict confidentiality of all internal documentation, client data, and any sensitive business information. No disclosure to third parties is permitted without prior written consent from the Company.” This aligns with section 1 of the provided document which states “All employees, contractors, and third-party vendors must treat all internal company data as confidential. Disclosure of sensitive business information to external parties is strictly prohibited without prior written consent from company leadership.”
+
+Section 3 states “Access to confidential systems and data will be limited to what is strictly necessary for project execution. All access rights will be reviewed and approved by the relevant department head.” This aligns with section 3 of the provided document which states “Only authorized personnel are permitted to access confidential information. Access rights must be reviewed quarterly by department heads.”
+
+Section 5 states “Upon termination, the Contractor will return all company-owned equipment and materials within 48 hours. All system access will be revoked immediately, and no company data will be retained by the Contractor.” This aligns with section 5 of the provided document which states “Upon termination, all access rights to internal systems will be revoked immediately. All company-owned devices and documents must be returned within 48 hours. Any violation of this process may result in legal action.”

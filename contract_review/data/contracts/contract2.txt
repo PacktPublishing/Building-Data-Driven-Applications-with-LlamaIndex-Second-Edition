@@ -1,0 +1,25 @@
+Independent Contractor Agreement
+
+This Agreement is made between AcmeCorp Ltd. ("Company") and Jane Doe ("Contractor"), effective as of March 15, 2025.
+
+1. Scope of Work  
+Contractor agrees to provide data engineering and analytics services for Company. All work will be performed using company-issued hardware and will be stored securely on encrypted, company-approved cloud platforms.
+
+2. Confidentiality  
+The Contractor shall maintain strict confidentiality of all internal documentation, client data, and any sensitive business information. No disclosure to third parties is permitted without prior written consent from the Company.
+
+3. Data Access  
+Access to confidential systems and data will be limited to what is strictly necessary for project execution. All access rights will be reviewed and approved by the relevant department head.
+
+4. Competing Activities  
+The Contractor agrees not to engage in or provide services to any direct competitors of the Company during the engagement and for a period of 6 months after termination of this agreement.
+
+5. Termination  
+Upon termination, the Contractor will return all company-owned equipment and materials within 48 hours. All system access will be revoked immediately, and no company data will be retained by the Contractor.
+
+6. Legal Review and Compliance  
+This agreement has been reviewed and approved by the Legal & Compliance Department. The Contractor agrees to fully comply with all company policies, including the Data Protection and Confidentiality Policy.
+
+Signed:  
+Jane Doe, Contractor  
+Michael Evans, Compliance Officer, AcmeCorp Ltd.

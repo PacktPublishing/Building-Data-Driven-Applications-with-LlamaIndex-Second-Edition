@@ -1,0 +1,22 @@
+Company Internal Policy - Confidentiality and Data Protection
+
+1. Confidentiality Obligations
+All employees, contractors, and third-party vendors must treat all internal company data as confidential. Disclosure of sensitive business information to external parties is strictly prohibited without prior written consent from company leadership.
+
+2. Data Handling and Storage
+All customer and employee data must be handled in accordance with applicable data protection laws, including but not limited to GDPR. Data should be stored only on approved, encrypted devices or servers.
+
+3. Access Control
+Only authorized personnel are permitted to access confidential information. Access rights must be reviewed quarterly by department heads.
+
+4. Non-Compete Clause
+Employees are prohibited from engaging in any competing business activities during their employment and for a period of 6 months following termination.
+
+5. Termination and Exit Process
+Upon termination, all access rights to internal systems will be revoked immediately. All company-owned devices and documents must be returned within 48 hours. Any violation of this process may result in legal action.
+
+6. Compliance
+Failure to comply with the policies outlined in this document may result in disciplinary action, up to and including termination of employment or contract, and possible legal action.
+
+Approved by: Legal & Compliance Department  
+Effective Date: January 1, 2025
