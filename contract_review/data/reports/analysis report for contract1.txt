@@ -1,0 +1,14 @@
+RISK ANALYSIS:
+==================================================
+Several potential risks are associated with this agreement. Firstly, the contractor’s access to internal client databases and ability to download data represents a significant data security vulnerability. This is coupled with the potential for the contractor to utilize personal devices and third-party cloud services, which may not meet the company’s security standards.
+
+Furthermore, the contractor’s existing consulting agreement with a direct competitor, TechNova Inc., introduces a conflict of interest, requiring careful monitoring. The agreement allows for the contractor to retain developed documentation and code repositories, which could be leveraged by a competitor.
+
+Finally, the relatively short return timeframe for company-issued equipment (30 days) compared to the company’s policy of 48 hours presents a risk of delayed asset recovery.
+
+==================================================
+COMPLIANCE CHECK:
+==================================================
+Non-compliance with section 1, which states “All employees, contractors, and third-party vendors must treat all internal company data as confidential. Disclosure of sensitive business information to external parties is strictly prohibited without prior written consent from company leadership.” is present due to section 2, which states “The Contractor agrees to maintain confidentiality of sensitive information…”.
+
+Non-compliance with section 3, which states “Only authorized personnel are permitted to access confidential information. Access rights must be reviewed quarterly by department heads.” is present due to section 3, which states “The Contractor shall have unrestricted access to internal client databases and may download relevant data as needed to complete assigned tasks.”
