@@ -6,7 +6,7 @@ documents = reader.load_data()
 index = VectorStoreIndex.from_documents(documents)
 retriever = index.as_retriever(retriever_mode='default')
 nodes = retriever.retrieve(
-    "What did Fluffy found in the gentle stream?"
+    "What did Fluffy find in the gentle stream?"
 )
 
 print('Initial nodes:')

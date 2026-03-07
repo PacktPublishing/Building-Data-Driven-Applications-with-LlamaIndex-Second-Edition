@@ -4,7 +4,7 @@ import os
 import config
 from pathlib import Path
 from llama_index.core import VectorStoreIndex, StorageContext, load_index_from_storage
-from llama_index.core.readers.file.base import SimpleDirectoryReader
+from llama_index.core import SimpleDirectoryReader
 
 # Save an uploaded file to a specified folder
 def save_file(uploaded_file, folder):

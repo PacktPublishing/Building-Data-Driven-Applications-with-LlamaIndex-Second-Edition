@@ -1,12 +1,11 @@
-# models_config.py
+# models.py
 
 from llama_index.core import Settings
 from llama_index.llms.ollama import Ollama
 from llama_index.embeddings.ollama import OllamaEmbedding
 
-# Automatically configure on import
 Settings.llm = Ollama(
-    model="gemma3:4b",
+    model=  "gemma3:4b", #"qwen3:8b" "mistral", #"llama3.1:8b", #
     base_url="http://localhost:11434",
     temperature=0.8,
     context_window=16000,
