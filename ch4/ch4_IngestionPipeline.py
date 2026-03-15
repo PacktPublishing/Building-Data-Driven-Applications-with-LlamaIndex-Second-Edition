@@ -18,7 +18,7 @@ try:
 )
     print("Cache file found. Running using cache...")
 except:
-    cached_hashes = ""
+    cached_hashes = IngestionCache()
     print("No cache file found. Running without cache...")
 
 pipeline = IngestionPipeline(

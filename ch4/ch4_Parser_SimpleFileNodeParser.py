@@ -1,9 +1,7 @@
 from llama_index.readers.file import FlatReader
+from llama_index.core.node_parser import SimpleFileNodeParser
 from pathlib import Path
 
-reader = FlatReader()
-document = reader.load_data(Path("files/sample_document1.txt"))
-
-print(f"Metadata: {document[0].metadata}")
-print(f"Text: {document[0].text}")
-
+documents = FlatReader().load_data(Path("files/sample_document1.txt"))
+parser = SimpleFileNodeParser()
+nodes = parser.get_nodes_from_documents(documents)
