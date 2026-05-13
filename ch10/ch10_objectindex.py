@@ -62,7 +62,7 @@ async def main() -> None:
     ]
 
     tool_index = ObjectIndex.from_objects(tools, index_cls=VectorStoreIndex)
-    tool_retriever = tool_index.as_retriever(similarity_top_k=3)
+    tool_retriever = tool_index.as_retriever(similarity_top_k=2)
 
     preview = tool_retriever.retrieve("vacation policy exceptions for contractors")
     print([t.metadata.name for t in preview])
