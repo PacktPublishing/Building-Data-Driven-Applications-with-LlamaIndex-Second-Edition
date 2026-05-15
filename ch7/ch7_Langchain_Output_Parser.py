@@ -1,5 +1,5 @@
 import models_config
-from langchain.output_parsers import StructuredOutputParser, ResponseSchema
+from langchain_classic.output_parsers import StructuredOutputParser, ResponseSchema
 from llama_index.core.output_parsers import LangchainOutputParser
 from llama_index.core.schema import TextNode
 from llama_index.core import VectorStoreIndex, Settings
