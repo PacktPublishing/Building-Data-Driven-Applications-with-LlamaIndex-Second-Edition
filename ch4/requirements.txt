@@ -7,7 +7,7 @@ pip install llama-index-readers-github
 pip install llama-index-readers-maps
 pip install llama-index-readers-web
 pip install llama-index-readers-s3
-pip install langchain
+pip install langchain-text-splitters
 pip install tree_sitter
 pip install tree_sitter_languages
 pip install torch torchvision torchaudio

@@ -1,5 +1,5 @@
 from llama_index.core.node_parser import LangchainNodeParser
-from langchain.text_splitter import NLTKTextSplitter
+from langchain_text_splitters import NLTKTextSplitter
 from llama_index.readers.file import FlatReader
 from pathlib import Path
 
